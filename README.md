@@ -93,7 +93,7 @@ const vinayak = {
 
 ---
 
-## �🐍 Contribution Graph
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> Contribution Graph
 
 <div align="center">
   
