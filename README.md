@@ -83,7 +83,17 @@ const vinayak = {
 
 ---
 
-## 🐍 Contribution Graph
+## � Contribution Activity
+
+<div align="center">
+
+[![Vinayak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinayakmishra-11&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## �🐍 Contribution Graph
 
 <div align="center">
   
