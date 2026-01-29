@@ -83,7 +83,7 @@ const vinayak = {
 
 ---
 
-## � Contribution Activity
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Contribution Activity
 
 <div align="center">
 
