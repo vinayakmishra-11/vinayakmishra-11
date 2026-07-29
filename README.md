@@ -178,15 +178,15 @@ https://github.com/vinayakmishra-11/carbonCalc
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinayakmishra-11&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinayakmishra-11&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakmishra-11&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=vinayakmishra-11&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakmishra-11&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinayakmishra-11&theme=tokyonight"/>
 
 </p>
 
