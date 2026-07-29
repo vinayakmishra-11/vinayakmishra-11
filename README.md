@@ -1,129 +1,289 @@
-<div align="center">
-  
-# Hey there! 👋 I'm Vinayak Mishra
+<h1 align="center">Hi 👋, I'm Vinayak Mishra</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+%2F+ML+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+<h3 align="center">
+AI & Machine Learning Student | Full Stack Developer | Java Developer
+</h3>
 
-<img src="https://komarev.com/ghpvc/?username=vinayakmishra-11&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" />
+<p align="center">
+I build AI-powered applications, scalable backend systems, and modern full-stack web applications.
+</p>
 
-</div>
+<p align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Developer;Java+Developer;Backend+Developer;Open+Source+Learner;Always+Building+Projects+🚀"/>
 
-## 🚀 About Me
+</p>
 
-```javascript
-const vinayak = {
-    pronouns: "He" | "Him",
-    location: "India 🇮🇳",
-    currentFocus: "Building amazing projects",
-    funFact: "I debug with coffee ☕"
-};
-```
+<p align="center">
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **anything, I'm happy to help!**
-- ⚡ Fun fact: **I love coding and solving problems**
+<img src="https://komarev.com/ghpvc/?username=vinayakmishra-11&label=Profile%20Views&color=6C63FF&style=flat"/>
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-<div align="center">
+🎓 B.Tech (Artificial Intelligence & Machine Learning)
+
+🏫 Shri Ramdeobaba College of Engineering & Management (RCOEM)
+
+📍 Bhusawal, Maharashtra, India
+
+💡 Passionate about Artificial Intelligence, Backend Development, Full Stack Development and solving real-world problems.
+
+🌱 Currently learning
+
+- Spring Boot
+- System Design
+- Cloud Computing
+- Advanced Machine Learning
+
+⚡ I enjoy building products that combine AI with scalable software engineering.
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p>
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,html,css"/>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</p>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Frontend
 
-</div>
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite"/>
 
-## 📊 GitHub Stats
+</p>
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinayakmishra-11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakmishra-11&theme=tokyonight&hide_border=true" />
+### Backend
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakmishra-11&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
 
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 
----
+</p>
 
-## 🏆 GitHub Trophies
+### AI / Machine Learning
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=vinayakmishra-11&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
 
-</div>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
----
+</p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Contribution Activity
+- Scikit Learn
+- Pandas
+- NumPy
+- OpenCV
 
-<div align="center">
+### Database
 
-[![Vinayak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinayakmishra-11&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p>
 
-</div>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
+
+</p>
+
+### Dev Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode"/>
+
+</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> Contribution Graph
+# 🚀 Featured Projects
 
-<div align="center">
-  
-![Snake animation](https://github.com/vinayakmishra-11/vinayakmishra-11/blob/output/github-contribution-grid-snake-dark.svg)
+## 🧠 QueryVista – AI Powered Database Migration Platform
 
-</div>
+An AI-assisted platform that migrates data between SQL and NoSQL databases.
+
+### Features
+
+- AI-generated migration plans
+- Human review workflow
+- FastAPI Backend
+- SQLAlchemy
+- OpenAI Integration
+- MySQL
+- PostgreSQL
+- MongoDB
+- CouchDB
+- Docker Support
+
+🔗 Repository
+
+https://github.com/vinayakmishra-11/MINI_Project
 
 ---
 
-## 🤝 Connect with Me
+## 🏡 Wanderlust
 
-<div align="center">
+A production-ready Airbnb-inspired rental platform.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-mishra-a76827319)
+### Features
 
+- User Authentication
+- Passport.js
+- Property Listings
+- Reviews
+- Image Upload
+- CRUD Operations
+- MongoDB
+- Express
+- Node.js
+- Responsive Design
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vinayakmishra11052004@gmail.com)
+🌐 Live
 
-</div>
+https://wanderlust-5cy9.onrender.com/listings
+
+🔗 Repository
+
+https://github.com/vinayakmishra-11/Wanderlust
 
 ---
 
-<div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+## 🌱 Carbon Footprint Tracker
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+Gamified sustainability tracking platform.
 
-</div>
+### Features
+
+- Carbon Emission Calculator
+- Leaderboards
+- AI Recommendations
+- Streak System
+- Badges
+- REST APIs
+- React
+- Express
+- MongoDB
+
+🔗 Repository
+
+https://github.com/vinayakmishra-11/carbonCalc
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinayakmishra-11&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakmishra-11&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakmishra-11&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vinayakmishra-11&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/vinayakmishra-11/vinayakmishra-11/blob/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📚 Current Focus
+
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+- Full Stack Development
+- System Design
+- Cloud Computing
+- Open Source
+
+---
+
+# 🎯 Goals
+
+✔ Build impactful AI products
+
+✔ Become a strong Software Engineer
+
+✔ Contribute to Open Source
+
+✔ Learn scalable backend architecture
+
+✔ Keep solving DSA problems
+
+---
+
+# 🌐 Coding Profiles
+
+<p>
+
+<a href="https://leetcode.com/u/VinayakK11_mishra/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vinayakmishra-11">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vinayak-mishra-a76827319">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 **Email**
+
+vinayakmishra11052004@gmail.com
+
+📍 **Location**
+
+Bhusawal, Maharashtra, India
+
+---
+
+# 💬 Quote
+
+<p align="center">
+
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+
+**— Martin Fowler**
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</p>
