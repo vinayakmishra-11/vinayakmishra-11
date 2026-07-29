@@ -242,7 +242,7 @@ https://github.com/vinayakmishra-11/carbonCalc
 
 <p>
 
-<a href="https://leetcode.com/u/VinayakK11_mishra/">
+<a href="https://leetcode.com/u/Vinayak11_mishra/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
