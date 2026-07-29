@@ -196,7 +196,9 @@ https://github.com/vinayakmishra-11/carbonCalc
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vinayakmishra-11&theme=tokyonight&row=1&column=7&no-frame=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayakmishra-11&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinayakmishra-11&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
